@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Telegram Bot to store Posts and Documents and it can Access by Special Links.
+  name: File-Sharing-Bot version: 1.0 type: Repository author: VarshuAi description: >   Telegram Bot to store Posts and Documents and it can Access by Special Links. primary_tech: Python
 primary_tech: Python
 ```
 
